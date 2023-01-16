@@ -1,4 +1,5 @@
 import Head from "next/head"
+import { Link } from "next/link"
 
 const Daisy = () => {
   return (
@@ -17,9 +18,9 @@ const Daisy = () => {
         <meta name="twitter:title" content="usdebt.wtf" />
       </Head>
       <nav style={{ padding: "1rem" }}>
-        <a href="/" className="home">
+        <Link href="/" className="home">
           b_b
-        </a>
+        </Link>
       </nav>
       <main style={{ padding: "3rem" }}>
         <h1>Daisy</h1>
