@@ -15,7 +15,7 @@ const Daisy = () => {
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content="https://neb.lol/daisy-og.png" />
-        <meta name="twitter:title" content="usdebt.wtf" />
+        <meta name="twitter:title" content="Daisy" />
       </Head>
       <nav style={{ padding: "1rem" }}>
         <Link href="/" className="home">
