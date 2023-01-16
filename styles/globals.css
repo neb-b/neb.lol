@@ -28,6 +28,10 @@ a {
   color: #f29254;
 }
 
+a.home {
+  text-decoration: none;
+}
+
 h1 {
   font-size: 64px;
 }
