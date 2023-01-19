@@ -59,6 +59,7 @@ const Daisy = () => {
             <li>Improved startup</li>
             <li>Faster data loading</li>
             <li>Added relay management</li>
+            <li>Allow login with hex private key</li>
             <li>
               Hide "Follow" button on your own profile{" "}
               <a href="https://github.com/neb-b/daisy/pull/28">(@bennyhodl)</a>
