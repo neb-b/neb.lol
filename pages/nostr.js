@@ -42,7 +42,7 @@ const Daisy = () => {
           <h3>Builds</h3>
           <ul>
             <li>
-              <a href="https://www.mediafire.com/file/rhxvl6i64rfa8to/v0.0.1.apk/file">APK</a>
+              <a href="https://www.mediafire.com/file/nzjpefvdet3mjwy/v0.0.3.apk/file">APK</a>
             </li>
             <li>
               <a href="https://testflight.apple.com/join/o3njoBHt">Testflight</a>
