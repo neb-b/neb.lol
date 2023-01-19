@@ -52,6 +52,28 @@ const Daisy = () => {
             </li>
           </ul>
         </section>
+        <section>
+          <h3>Changelog</h3>
+          <h4>0.0.3</h4>
+          <ul>
+            <li>Improved startup</li>
+            <li>Faster data loading</li>
+            <li>Added relay management</li>
+            <li>
+              Hide "Follow" button on your own profile{" "}
+              <a href="https://github.com/neb-b/daisy/pull/28">(@bennyhodl)</a>
+            </li>
+            <li>Add "show" toggle for private key on settings page</li>
+          </ul>
+          <h4>0.0.2</h4>
+          <ul>
+            <li>Unrelased - I screwed up the build</li>
+          </ul>
+          <h4>0.0.1</h4>
+          <ul>
+            <li>Initial release</li>
+          </ul>
+        </section>
       </main>
     </>
   )
