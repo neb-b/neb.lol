@@ -42,7 +42,7 @@ const Daisy = () => {
           <h3>Builds</h3>
           <ul>
             <li>
-              <a href="https://www.mediafire.com/file/nzjpefvdet3mjwy/v0.0.3.apk/file">APK</a>
+              <a href="https://github.com/neb-b/daisy/releases/download/v0.0.3/v0.0.3.apk">APK</a>
             </li>
             <li>
               <a href="https://testflight.apple.com/join/o3njoBHt">Testflight</a>
@@ -53,20 +53,10 @@ const Daisy = () => {
           </ul>
         </section>
         <section>
-          <h3>Changelog</h3>
-          <h4>0.0.3</h4>
-          <ul>
-            <li>Improved startup</li>
-            <li>Faster data loading</li>
-            <li>Added relay management</li>
-            <li>Allow login with hex private key</li>
-            <li>
-              Hide "Follow" button on your own profile{" "}
-              <a href="https://github.com/neb-b/daisy/pull/28">(@bennyhodl)</a>
-            </li>
-            <li>Add "show" toggle for private key on settings page</li>
-          </ul>
-          <h4>0.0.2</h4>
+          <h3>Releases</h3>
+          <h4>
+            <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.3">0.0.3</a>
+          </h4>
           <ul>
             <li>Unrelased - I screwed up the build</li>
           </ul>
