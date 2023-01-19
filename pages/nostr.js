@@ -57,6 +57,7 @@ const Daisy = () => {
           <h4>
             <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.3">0.0.3</a>
           </h4>
+          <h4>0.0.2</h4>
           <ul>
             <li>Unrelased - I screwed up the build</li>
           </ul>
