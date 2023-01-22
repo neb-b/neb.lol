@@ -42,7 +42,7 @@ const Daisy = () => {
           <h3>Builds</h3>
           <ul>
             <li>
-              <a href="https://github.com/neb-b/daisy/releases/download/v0.0.3/v0.0.3.apk">APK</a>
+              <a href="https://github.com/neb-b/daisy/releases/download/v0.0.4/v0.0.4.apk">APK</a>
             </li>
             <li>
               <a href="https://testflight.apple.com/join/o3njoBHt">Testflight</a>
@@ -54,6 +54,9 @@ const Daisy = () => {
         </section>
         <section>
           <h3>Releases</h3>
+          <h4>
+            <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.4">0.0.4</a>
+          </h4>
           <h4>
             <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.3">0.0.3</a>
           </h4>
