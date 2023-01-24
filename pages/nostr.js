@@ -10,11 +10,11 @@ const Daisy = () => {
         <meta name="description" content="iOS and Android nostr client" />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Daisy" />
-        <meta property="og:image" content="https://neb.lol/daisy-og.png" />
+        <meta property="og:image" content="https://neb.lol/banner.png" />
         <meta property="og:description" content="iOS and Android nostr client" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="https://neb.lol/daisy-og.png" />
+        <meta name="twitter:image" content="https://neb.lol/banner.png" />
         <meta name="twitter:title" content="Daisy" />
       </Head>
       <nav style={{ padding: "1rem" }}>
