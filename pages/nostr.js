@@ -42,7 +42,7 @@ const Daisy = () => {
           <h3>Builds</h3>
           <ul>
             <li>
-              <a href="https://github.com/neb-b/daisy/releases/download/v0.0.4/v0.0.4.apk">APK</a>
+              <a href="https://github.com/neb-b/daisy/releases">APKs</a>
             </li>
             <li>
               <a href="https://testflight.apple.com/join/o3njoBHt">Testflight</a>
@@ -50,23 +50,6 @@ const Daisy = () => {
             <li>
               <a href="#">Google Play</a>:<div className="handle">coming soon</div>
             </li>
-          </ul>
-        </section>
-        <section>
-          <h3>Releases</h3>
-          <h4>
-            <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.4">0.0.4</a>
-          </h4>
-          <h4>
-            <a href="https://github.com/neb-b/daisy/releases/tag/v0.0.3">0.0.3</a>
-          </h4>
-          <h4>0.0.2</h4>
-          <ul>
-            <li>Unrelased - I screwed up the build</li>
-          </ul>
-          <h4>0.0.1</h4>
-          <ul>
-            <li>Initial release</li>
           </ul>
         </section>
       </main>
